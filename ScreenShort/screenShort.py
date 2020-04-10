@@ -8,3 +8,5 @@
 @time:      18-8-3
 @desc:      
 """
+
+# adb shell screencap -p /sdcard/screen.png
